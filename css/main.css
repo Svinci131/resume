@@ -17,7 +17,7 @@ div.wrapper {
 .light {
 	font-weight: normal;
 }
-h2, h3, h4, h5 {
+h1, h2, h3, h4, h5 {
 	text-transform: uppercase;
 	/*font-family: "Lato-Light",Arial, Sans-Serif;*/
 }
@@ -26,9 +26,7 @@ h3 {
 	color: rgb(164, 190, 204);
 }
 
-#title h4, h1 {
-	font-weight: 200;
-}
+
 #title {
 	background-color: rgb(164, 190, 204);
 	color:white;
