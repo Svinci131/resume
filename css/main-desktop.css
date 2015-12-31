@@ -1,0 +1,10 @@
+/*
+ * desktop styles 
+ */
+@media all and (min-width: 630px) {
+	div.wrapper {
+		width: 630px;
+	}
+	
+}
+
