@@ -17,24 +17,30 @@ div.wrapper {
 .light {
 	font-weight: normal;
 }
-h1, h2, h3, h4, h5 {
+h2, h3, h4, h5 {
 	text-transform: uppercase;
-	font-family: "Lato",Arial, Sans-Serif;
+	/*font-family: "Lato-Light",Arial, Sans-Serif;*/
 }
 
 h3 {
 	color: rgb(164, 190, 204);
 }
 
+#title h4, h1 {
+	font-weight: 200;
+}
 #title {
 	background-color: rgb(164, 190, 204);
 	color:white;
 	padding:15px;
 	margin-bottom:10px;
 	font-family:"Lato-Light",Arial,Sans-Serif;
+	font-weight: 100;
+
 }
 #title h4 {
 	color: rgb(0, 64,89);
+	text-transform: lowercase;
 	margin-top: 5px;
 	font-family:"Lato-Light",Arial,Sans-Serif;
 }
