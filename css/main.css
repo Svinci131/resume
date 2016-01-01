@@ -2,12 +2,20 @@
  * DEFAULT/MOBILE styles
  * */
 
+* {
+	box-sizing: border-box;
+}
+html, body {
+	margin: 0;
+}
+
 .block-item {
 	margin-top: 8px;
 }
 
 div.wrapper {
-	width: 320px;
+	width: 100%;
+	padding: 10px;
 	margin: 0 auto;
 	height: 100%;
 	font-family:"Lato-Light",Arial,Sans-Serif;
