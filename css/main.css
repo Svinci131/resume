@@ -30,7 +30,7 @@ div.wrapper {
 	font-weight: 300;
 }
 h1, h4 {
-	font-weight: 300;
+	font-weight: 500;
 }
 h1 {
 	text-transform: uppercase;
@@ -102,7 +102,7 @@ h1 {
 .wrapper .block span.bolder,
 .wrapper .block h3,
 .generic_bold {
-	font-weight: 700;
+	font-weight: 600;
 }
 
 .wrapper .block h3,
